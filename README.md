@@ -3,11 +3,9 @@ We’ve released software for farming MonadScore:
 
 * 🔥 AVAILABLE ONLY paid version
 * 💎 PAID version supports any accounts — register using your own referral code!
-* **📩 DM us for the paid version in Telegram**: 
+* **📩 DM us for the paid version in Telegram**: https://t.me/FAMERS0FT
 
-- 📩 Telegram chat: 
-- 📩 Telegram channel: 
-- 📩 Developer: 
+- 📩 Contacts: https://t.me/FAMERS0FT
 
 - - -
 
@@ -71,6 +69,4 @@ Invite your friends and colleagues to join! 🚀
 * The **Save accounts to file** module saves all existing accounts in the `accounts.txt` file.
 
 # 🔗 Contacts
-* 📩 Telegram chat: 
-* 📩 Telegram channel: 
-* 📩 Developer: 
+* 📩 https://t.me/FAMERS0FT
